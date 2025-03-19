@@ -21,7 +21,6 @@ Saint Mary's,0.84675586
 UCLA,0.7264952
 Lipscomb,0.67917526
 Kentucky,0.6447624
-San Diego St,0.62286055
 Texas A&M,0.611675
 Texas Tech,0.5842309
 Wofford,0.55735517
@@ -37,8 +36,10 @@ Memphis,0.38825303
 Yale,0.36124524
 Utah St,0.30948535
 New Mexico,0.30598438
+North Carolina,0.29407516
 Omaha,0.2900568
 SIU Edward,0.27844888
+St Francis PA,0.26375008
 Oregon,0.22667386
 NC Wilmington,0.2081137
 Montana,0.20490023
@@ -46,13 +47,12 @@ Bryant,0.1999749
 Missouri,0.19955735
 Xavier,0.18285137
 Colorado St,0.18283804
-St Francis PA,0.16836828
 Oklahoma,0.13971978
 Mississippi St,0.122087464
-North Carolina,0.12113055
 Kansas,0.11101578
 Gonzaga,0.106605925
 Norfolk St,0.09793143
+Alabama St,0.093941435
 Vanderbilt,0.09196508
 Baylor,0.07976526
 American,0.07661594
@@ -63,7 +63,7 @@ Texas,0.041891854
 Michigan,0.035426807
 Robert Morris,0.0072773555
 Mt St Mary's,0.0024580394
-Alabama St,-0.011115371
 High Point,-0.018939905
 Georgia,-0.07644967
 BYU,-0.11765371
+San Diego St,-0.16295223
