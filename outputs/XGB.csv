@@ -1,69 +1,69 @@
 TEAM,Prediction
+Duke,3.689093
 Creighton,3.3115792
-Alabama,2.9671698
-Florida,2.1770272
-Duke,2.1193101
-Auburn,2.0245013
-Houston,1.8380198
-Tennessee,1.5675871
-Michigan St,1.5431496
-Illinois,1.387396
+Alabama,3.0015693
+Florida,2.2993982
+Houston,1.993119
+Tennessee,1.6334075
+Michigan St,1.5571214
+St John's,1.5024768
+Illinois,1.4070354
 VCU,1.3355876
-Liberty,1.2855436
-Wisconsin,1.2214769
-St John's,1.2121259
-Iowa St,1.151854
-Maryland,1.1182548
-Drake,0.98036605
+Maryland,1.3238863
+Auburn,1.2280844
+Wisconsin,1.1641151
+Kentucky,1.1043282
+Drake,1.0241457
 UCSD,0.96250606
-Saint Mary's,0.84675586
-Texas Tech,0.7275975
-Lipscomb,0.67917526
-Kentucky,0.6447624
+Iowa St,0.90386766
+Texas Tech,0.74899155
 Clemson,0.6214393
-Texas A&M,0.60435396
-UCLA,0.60043406
+UCLA,0.6201654
+Lipscomb,0.59654826
+Texas A&M,0.570938
 Utah St,0.55798274
-Marquette,0.46621123
+UConn,0.50234455
+Marquette,0.48296854
+Purdue,0.44803256
 Wofford,0.44301417
-McNeese,0.44046313
-Grand Canyon,0.43927294
-UConn,0.43267086
-Arizona,0.43156868
+Liberty,0.416855
 Omaha,0.4142373
-Akron,0.4088902
 Yale,0.39977628
-Purdue,0.3940004
-Memphis,0.38825303
-New Mexico,0.30598438
+Akron,0.37096047
+McNeese,0.3382362
 Louisville,0.29888493
-North Carolina,0.29407516
 St Francis PA,0.26375008
+Arizona,0.26085156
+Troy,0.24995336
 Oregon,0.22667386
+Bryant,0.22050038
 Missouri,0.20611621
-Bryant,0.1999749
-Colorado St,0.18283804
+Colorado St,0.20514415
+Oklahoma,0.18307927
+Grand Canyon,0.17478281
 Montana,0.15651423
 Georgia,0.15245469
-Oklahoma,0.13971978
-Arkansas,0.1287467
-Mississippi St,0.122087464
+North Carolina,0.15024714
 NC Wilmington,0.11991246
 High Point,0.10784601
 Alabama St,0.10016261
 Norfolk St,0.09793143
-Vanderbilt,0.09196508
 American,0.09104223
 Kansas,0.09029208
-Baylor,0.07976526
-Mississippi,0.059306394
+Mississippi St,0.08914409
+Vanderbilt,0.07028251
+Arkansas,0.06533846
+Saint Mary's,0.055891335
 SIU Edward,0.042743836
-Troy,0.042262163
-Michigan,0.035426807
-Mt St Mary's,0.016837582
+Baylor,0.022811115
 Texas,0.011292837
-BYU,0.0074231876
-Robert Morris,0.0072773555
-Gonzaga,-0.1212475
-Xavier,-0.14721414
+Mississippi,0.008143423
+Michigan,0.0027486635
+Memphis,-0.008988362
+Robert Morris,-0.010740402
+New Mexico,-0.057482228
+Mt St Mary's,-0.1039499
+Gonzaga,-0.15061769
 San Diego St,-0.16295223
+BYU,-0.17543861
+Xavier,-0.2501221

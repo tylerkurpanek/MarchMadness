@@ -1,69 +1,69 @@
 TEAM,Prediction
-Illinois,2.88
-Duke,2.57
-Creighton,2.5
+Duke,4.04
+Illinois,2.97
+Creighton,2.49
 Alabama,2.19
 Auburn,2.17
-Michigan St,1.99
-Florida,1.9
-St John's,1.85
-Tennessee,1.73
+Florida,1.94
+Michigan St,1.92
+St John's,1.84
 Kentucky,1.72
-Houston,1.58
+Houston,1.61
+Tennessee,1.6
 UCSD,1.49
-Maryland,1.45
-Iowa St,1.42
+Maryland,1.32
 Purdue,1.27
-Drake,1.21
-Texas A&M,1.17
+Iowa St,1.19
+Texas A&M,1.18
+Drake,1.16
 Gonzaga,1.13
-Liberty,1.09
+Liberty,1.0
 Clemson,0.97
-Wisconsin,0.94
 High Point,0.93
-Texas Tech,0.91
-Arizona,0.86
-Saint Mary's,0.85
-Marquette,0.84
+Wisconsin,0.91
+Texas Tech,0.85
 VCU,0.84
 Utah St,0.83
-UCLA,0.8
-Lipscomb,0.75
-Grand Canyon,0.72
-UConn,0.68
-Memphis,0.65
+Saint Mary's,0.82
+Marquette,0.82
+UCLA,0.73
+Arizona,0.72
+UConn,0.71
+Grand Canyon,0.63
 Missouri,0.62
 Wofford,0.6
-New Mexico,0.56
-Michigan,0.55
+Lipscomb,0.57
+Memphis,0.55
 Montana,0.54
-McNeese,0.54
+North Carolina,0.54
+Michigan,0.54
 Louisville,0.52
+BYU,0.51
 Oklahoma,0.5
-Mississippi,0.49
-North Carolina,0.49
-BYU,0.45
+New Mexico,0.49
+McNeese,0.47
+Mississippi,0.46
 Kansas,0.45
-Oregon,0.43
-Akron,0.43
+Oregon,0.39
 Omaha,0.39
-Xavier,0.35
-Baylor,0.33
-Troy,0.32
+Baylor,0.39
+Akron,0.35
 Vanderbilt,0.31
-Mississippi St,0.29
+Mississippi St,0.3
+Xavier,0.3
+Troy,0.29
+Bryant,0.26
 American,0.26
 Alabama St,0.26
-Bryant,0.26
 St Francis PA,0.23
 Colorado St,0.18
 Yale,0.17
 San Diego St,0.16
 NC Wilmington,0.15
-Texas,0.14
 Georgia,0.14
-Arkansas,0.14
+Texas,0.14
+Arkansas,0.13
 Norfolk St,0.06
+Robert Morris,0.05
+Mt St Mary's,0.04
 SIU Edward,0.03
-Robert Morris,0.03
-Mt St Mary's,0.03
